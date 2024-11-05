@@ -27,6 +27,7 @@ Creating a blockbuster movie requires extensive data analysis. This project uses
 - Drama movies (4285 movies) are produced the highest in numbers.
 - 103.16 is the moving average of average duration for all genres. Also, the most popular genre Drama has an average duration of 106.77 minutes.
 
-#Important Links:
+# Important Links:
 - [SQL used for Analysis](./IMDB%2Bquestion.sql)
+- [Executive Summary PDF](./Executive_Summary.pdf)
 - [IMDB Dataset Import Script File](./IMDB%2Bdataset%2Bimport.sql)
